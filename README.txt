@@ -8,7 +8,7 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 For tutorials and videos relating to how to work in blender and Glest see:
-http://glest.wikia.com/wiki/Blender
+https://docs.megaglest.org/Blender
 
 ==================================================
 Using Blender 2.4x - 2.6x to export models to G3D format:
